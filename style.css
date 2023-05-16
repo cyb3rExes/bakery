@@ -1,0 +1,27 @@
+
+ul{
+    list-style-type: none;
+    padding: 55px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between ;
+    font-size: 25px;
+    margin: 32px;
+    
+}
+.CorTextNav{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    background-color: blanchedalmond;
+    background-image: url(depositphotos_610959444-stock-illustration-bakery-bread-template-design-with.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+.Titul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
